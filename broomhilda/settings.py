@@ -32,6 +32,7 @@ ALLOWED_HOSTS = ['broomhilda-jdaza13.c9users.io']
 
 INSTALLED_APPS = [
     'polls.apps.PollsConfig',
+    'movies.apps.MoviesConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
