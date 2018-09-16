@@ -25,7 +25,7 @@ SECRET_KEY = 'bn%(bh^nopu27b5uz_d@3ayd&_-+v+z0@185se%)i8!4uc)#wx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['broomhilda-jdaza13.c9users.io']
 
 
 # Application definition
